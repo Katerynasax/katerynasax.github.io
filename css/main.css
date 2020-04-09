@@ -1,0 +1,132 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Ubuntu', sans-serif;
+}
+.container {
+	width: 1171px;
+	margin: 0 auto;
+}
+.header	{
+background: rgba(77,192,254,1);
+background: -moz-linear-gradient(-45deg, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(77,192,254,1)), color-stop(100%, rgba(55,144,217,1)));
+background: -webkit-linear-gradient(-45deg, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+background: linear-gradient(135deg, rgba(77,192,254,1) 0%, rgba(55,144,217,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dc0fe', endColorstr='#3790d9', GradientType=1 );
+padding-top: 70px;
+color: white;
+padding-bottom: 140px;
+}
+p {
+	line-height: 1.65em;
+}
+.offer {
+	margin-top: 149px;
+	width: 570px;
+}
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+}
+.title {
+	font-size: 37px;
+	line-height: 1.3em;
+}
+.leter {
+	font-size: 59px;
+		line-height: 1.05em;
+}
+.intro {
+font-size: 16px;
+margin-top: 30px;
+margin-bottom: 37px;
+width: 400px;
+}
+.btn {
+	font-family: 'Montserrat', sans-serif;
+    background: #ffd429;
+    color: black;
+    display: block;
+    width: 222px;
+    padding: 20px 0;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    border: 0;
+}
+.desctop {
+	margin-top: 53px;
+}
+.btn:hover {
+	background: #ffe88b;
+}
+.learn {
+	padding-top: 103px;
+	padding-bottom: 120px;
+}
+.section-title {
+font-size: 30px;
+text-align: center;
+}
+.skills {
+	display: flex;
+	justify-content: space-between;
+    margin-top: 73px;
+}
+.skill {
+	text-align: center;
+	width: 289px;
+}
+.skill-title {
+	margin-bottom: 0;
+	font-size: 19px;
+}
+.skill-text {
+	margin-top: 12px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+}
+.mail {
+	background: #ecf3f8;
+	padding-top: 103px;
+	padding-bottom: 107px;
+}
+.title2 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.form {
+	margin-left: 410px;
+	margin-top: 50px;
+}
+.input {
+	width: 330px;
+	border: 1px solid #bbbbbb;
+	border-radius: 2px;
+    font-family: 'Ubuntu', sans-serif;
+    height: 46px; 
+    padding-left: 25px;
+    margin: 7.5px 0px;
+}
+.btn1 {
+	width: 357px;
+	cursor: pointer;
+	margin-top: 5px;
+}
+.footer {
+	padding: 63px 0;
+	text-align: center;
+	background: #164d7a;
+}
+.credits {
+	font-size: 14px;
+	margin: 0;
+	color: #fff;
+}
